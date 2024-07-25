@@ -12,7 +12,7 @@ If you experience issues with imports, replace "import" statements with "const" 
 
 ## Support
 
-For further assistance, join our support community on Discord: https://discord.gg/shoukohub
+For further assistance, join our support community on Discord: ????!!!!
 
 ---
 
